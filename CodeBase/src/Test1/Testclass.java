@@ -55,10 +55,10 @@ public class Testclass  {
 		for(i=1;i<=number;i++) {
 			
 			fact=fact*i;
+			System.out.println("Factrioal value "+number+"is: "+fact);
 			
 		}
-		System.out.println("Factrioal value "+number+"is: "+fact);
-		
+	
 	}
 	
 	

@@ -16,7 +16,6 @@ public void Strats() {
 			}
 		if(i==5){
 			
-			continue;
 			
 		}
 		for (int j = 0; j < 5 - i; j++) 
@@ -24,7 +23,10 @@ public void Strats() {
 			
 		System.out.print(" "); 
 		} 
-		
+		if(i > 10) {
+			
+			
+		}
 		for (int k = 0; k <= i; k++) 
 		{ 
 			System.out.print("* "); 
