@@ -2,7 +2,7 @@ package Test1;
 
 //A Java program to demonstrate working on enum
 //in switch case (Filename Test. Java)
-import java.util.Scanner;
+
 
 //An Enum class
 enum Day
