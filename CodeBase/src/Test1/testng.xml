@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test  name="Test">
+  <parameter name="Count" value="6"/>
+    <classes>
+      <class name="Test1.Testclass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
