@@ -80,7 +80,7 @@ public class Readdatafromexcel {
 		    }
 	 }
 
-WebDriver driver = new FirefoxDriver();
+//WebDriver driver = new FirefoxDriver();
 
 
 

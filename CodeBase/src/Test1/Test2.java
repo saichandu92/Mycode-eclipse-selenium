@@ -1,5 +1,7 @@
 package Test1;
 
+import org.testng.Assert;
+
 public class Test2 {
 	
 public void Strats() {
@@ -42,7 +44,10 @@ public void Strats() {
 	public static void main(String[] args) {
 		Test2 t2 = new Test2();
 		t2.Strats();
-
+		JsonExample j = new JsonExample() ;
+		j.keyvalue();
+			
+					
 	}
 
 }

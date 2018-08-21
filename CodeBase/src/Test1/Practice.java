@@ -1,6 +1,7 @@
 package Test1;
 
-public class Practice {
+public class Practice  {
+	
 	
 		
 	public void Pra() {
